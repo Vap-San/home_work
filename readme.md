@@ -97,6 +97,7 @@ git help config
 
 Например, **git log -p** (показывает разницу, внесенную каждым коммитом)
 
+
 # Git checkout
 
 # Git branch
